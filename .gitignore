@@ -15,3 +15,7 @@ Thumbs.db
 .idea/
 *.csproj
 *.sln
+
+# Visual Studio
+.vs/
+.vsconfig
