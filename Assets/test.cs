@@ -1,5 +1,5 @@
 using UnityEngine;
-// Àß ¹Ù²î¾ú³ª¿ä?
+// ë„ˆëŠ” ì˜ ë³´ì´ë‚˜ìš”?
 public class test
 {
 
