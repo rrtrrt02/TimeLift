@@ -1,6 +1,6 @@
 using UnityEngine;
-// 너는 잘 보이나요?
+// 한글테스트
 public class test
 {
-
+    
 }
